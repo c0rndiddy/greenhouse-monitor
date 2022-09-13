@@ -1,3 +1,7 @@
+'''
+Collect temperature and light intensity data
+Facilitate connection between physical sensors and data display
+'''
 import time
 import board
 import analogio

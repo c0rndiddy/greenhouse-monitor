@@ -1,5 +1,5 @@
 '''
-Publish sensor data to Adafruit IO Dashboard using MQTT.
+Publish sensor light intensity and temperature data to Adafruit IO Dashboard using MQTT.
 '''
 # SPDX-FileCopyrightText: Brent Rubell for Adafruit Industries
 # SPDX-License-Identifier: MIT
